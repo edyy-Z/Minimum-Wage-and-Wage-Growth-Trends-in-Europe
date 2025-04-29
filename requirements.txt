@@ -1,1 +1,8 @@
-streamlit
+streamlit>=1.33
+pandas
+matplotlib
+plotly
+folium
+streamlit-folium
+geopandas
+openpyxl
